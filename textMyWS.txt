@@ -1,0 +1,183 @@
+36. Điều gì không thể thực hiện trong cài đặt Parameter 
+PLC? 
+
+  A Thay đổi ngẫu nhiên số điểm phân bổ vị trí trống
+  B Cài đặt sử dụng nhiều chương trình hay không
+  C Cài đặt khu vực chốt thiết bị
+  *D Chèn/thay đổi Comment
+
+48. Điều gì sai khi nói về nhược điểm của công nghệ khí nén ?     
+ 
+* A Không có lực đàn hồi               
+ B Khó kiểm soát độ chính xác
+ C Hiệu quả kém                   
+ D Không thể nhận lực lớn
+
+
+74. Chọn đáp án sai khi so sánh giữa dầu bôi trơn 
+và mỡ?
+
+  A  Mỡ có thể bôi trơn bằng một lượng nhỏ so với 
+dầu
+ * B Mỡ có thể dễ dàng loại bỏ dị vật so với dầu
+  C Mỡ có giới hạn tốc độ cao so với dầu
+  D Mỡ có khả năng bôi trơn lâu hơn so với dầu 
+
+
+77. Câu nào sai khi giải thích về kỹ thuật của máy ?
+
+ A Dựa vào ngoại lực để tạo thành tổ hợp các vật 
+thể có sự đối kháng nhau.
+* B Là trang bị cho phép sự chuyển động phù hợp 
+với mục đích
+ C Các vật sau khi tổ hợp lại với nhau sẽ được vận 
+hành thử nghiệm định sẵn
+ D Chuyển đổi năng lượng được cung cấp bằng 
+thực hiện công việc hiệu quả
+
+
+2. Điều gì không phải đặc tính của Thermistor?    
+
+*A. Hệ số nhiệt độ của điện trở nhỏ do đó nhiệt độ vi mô và đo lường chính xác
+B. Cấu trúc đơn giản cho phép thu nhỏ
+C. Vượt trội trong sản xuất đại trà, cho phép cung cấp hàng loạt với giá cả ổn định 
+D. Không nhạy cảm với áp suất ,từ tính và yếu tố khác
+
+
+32. Vấn đề nào không thể thực hiện trong việc cài đặt PLC Parameter?
+
+*A. Test Device
+B. Cài đặt nhiều chương trình
+C. Thay đổi điểm Device(DEV.Point) 
+D. Thiết lập sử dụng tệp đăng kí
+
+
+36. Cái nào sau đây là relay bên trong dùng cho Data Link?    
+
+ A. Z              B. M             * C. B              D. W
+
+73. Một bánh răng biến chuyển động quay thành chuyển động thẳng nó ăn khớp với bánh răng cưa, ngược lại có thể biến chuyển động thẳng thành chuyển động quay .Đó là loại bánh răng gì?
+  
+  A Rack gear
+  B Double helical gear
+  *C Worm
+  D Spiral bevel gear
+
+
+78.  Phương thức nào Ball Screw nhỏ gọn hơn Double Nut Type, không sử dụng Spacer, thay đổi Home Pitch của Nut rồi cung cấp Pre-load ?
+
+Phương thức Double nut 
+Phương thức Deflector 
+*Phương thức Offset
+Phương thức áp suất tĩnh
+
+50. Van nào điều chỉnh lò xo bằng tay,mở van-> không khí đi vào 1 lần, tác động lên áp suất khi đối ứng với lực lò xo điều chỉnh ở diaphragm và kiểm soát một phần đường đi của chất lỏng nhằm duy trì cân bằng giữa lực lò xo điều chỉnh và áp suất khí lần 2 ?
+
+A *Van giảm áp tác động trực tiếp    B Van relief
+C. Van tuần tự                         D. Van xả nhanh
+
+34. Câu nào giải thích sai về Unit đầu ra, đầu vào Analog?
+① Các đại lượng vật lý thay đổi liên tục như điện áp, dòng điện, nhiệt độ, áp suất, tốc độ dòng chảy…được gọi là giá trị Analog.
+② Để có đầu ra tín hiệu Analog đến thiết bị máy giống như Motor tín hiệu kỹ thuật số của CPU được chuyển đổi thành tín hiệu Analog và xuất ra.
+③ Giá trị Analog thay đổi liên tục theo thời gian.
+④ *Tín hiệu Analog có thể được đưa vào dưới dạng ON/OFF tới CPU của thiết bị kỹ thuật số giống như PLC.
+
+10. Nếu ElB với nút kiểm tra màu xanh lam hoặc xanh lá cây không hoạt động? 
+  
+  ①  Rò điện
+  ② Chập điện
+  ③ *Lỗi nối đất
+  ④ Quá tải
+
+13 Điều gì không phải đặc tính của Thermistor?
+  
+  ① Không nhạy cảm với áp suất, từ tính và yếu tố khác 
+  ② Cấu trúc đơn giản cho phép thu nhỉ
+  ③ Vượt trội trong sản xuất dại trà, cho phép cung cấp ..loạt với giá cả ổn đinh
+  ④ *Hệ số nhiệt độ của điện trở nhỏ do đó nhiệt độ … đo lường chính xác
+
+
+28. Đâu là Rellay nội bộ dùng để Data Link (liên kết dữ liệu)
+            
+① Z       ② M   ③ *B     ④W
+
+
+34. Câu nào giải thích sai về Unit đầu ra, đầu vào Analog?
+① Các đại lượng vật lý thay đổi liên tục như điện áp, dòng điện, nhiệt độ, áp suất, tốc độ dòng chảy…được gọi là giá trị Analog.
+② Để có đầu ra tín hiệu Analog đến thiết bị máy giống như Motor tín hiệu kỹ thuật số của CPU được chuyển đổi thành tín hiệu Analog và xuất ra.
+③ Giá trị Analog thay đổi liên tục theo thời gian.
+④ *Tín hiệu Analog có thể được đưa vào dưới dạng ON/OFF tới CPU của thiết bị kỹ thuật số giống như PLC.
+
+36. Chọn câu sai khi giải thích về tiếp điểm C?
+① Là tiếp điểm có thể hoàn chuyển tiếp điểm khởi động giữa tiếp điểm A và tiếp điểm B                                                     
+② *Khi dòng điện chạy vào cuộn cảm của Relay điện tử, tiếp điểm cố định tách khỏi tiếp điểm B của tiếp điểm hoạt động và tiếp xúc với tiếp điểm A.
+③ Còn được gọi là Transfer Contact.                                                    
+④ Là cấu trúc đại diện của relay điện tử, tiếp điểm tiếp xúc với tiếp điểm B tiếp điểm hoạt động ban đầu
+
+40. Các lệnh MC/MCR có thể được sử dụng theo cấu trúc lồng nhau như hình dưới đây. Điều gì thích hợp để điền vào chỗ trống a, b 
+
+① A: MCR M6  B: MCR M7  ② A: MCR N0  B: MCR N1
+③ A: *MCR M7  B: MCR M6  ④ A: MCR N1  B: MCR N0
+
+43. Chức năng nào không phải của bộ giảm thanh khí nén?
+
+① Hiệu quả giảm tiếng ồn tốt.
+② Không bị biến dạng do va đập hoặc rung động của ống xả
+③ *Lực kháng xả phải lớn và không làm ảnh hưởng tới hoạt động của bộ truyền động.
+④ Nó phải có hình dạng nhỏ gọn, dễ lắp vào van điện từ, v.v.
+
+7. Điều gì không đúng với mô tả về chất bôi trơn?
+
+  ① Hầu hết các chất bôi trơn đều có nguồn gốc từ dầu khoáng
+  ② Cần có đủ độ dính (nhớt)
+  ③ *Phải có độ nhớt chịu được trong trạng thái bôi trơn hạn chế
+  ④ Phải có độ ổn định cao chống lại quá trình oxy hóa hoặc nhiệt
+
+Oscilloscope không được dùng để đo giá trị của?
+
+  ① Đỉnh
+  ② Tần số
+  ③* Xung giảm 
+  ④ Chu kỳ
+
+10. Mạch nào sau đây không sử dụng chức năng của tụ điện?
+  
+  ① Mạch làm trơn
+  ②* Mạch chỉnh lưu
+  ③ Mạch hẹn giờ
+  ④ Mạch lọc
+
+70. Có răng trên mặt nón, bánh răng có đường răng đồng nhất trên mặt trụ tròn. Bánh răng nào đang được nhắc tới?
+
+  ① Bánh răng vít Hypoid
+  ② Bánh răng Helicon
+  ③ Bánh răng xoắn ốc
+  ④ *Bánh răng côn thẳng
+
+. Tính năng đặc trưng của Ball Spline là gì?
+
+  ① *Có thể cho tải trọng ban đầu
+  ② Không thể truyền mô-men xoắn
+  ③ Không được dùng cho có tải trọng quá mức.
+  ④ Không có Stick slip và Lost motion.
+
+79. Trong vẽ kỹ thuật, Đường vẽ nào được sử dụng ở đường quỹ đạo bước răng ghi trên răng của xích v.v?
+   
+  ① Leader line         ② *Pitch Line
+  ③ Imaginary line    ④ Cutting Plane Line
+
+8. Tụ nào thông thường sử dụng ở mạch ghép hoặc mạch hằng số thời gian nhanh?
+
+ ① Tụ hóa
+ ② *Tụ Mylar
+ ③ Tụ sứ
+ ④ Tụ Tantal
+
+11. Là phần tử đóng mở, chuyên sử dụng cho điện áp ngược cao, dòng điện cao ?
+
+ ① TR
+ ② *SCR
+ ③ TRIAC
+ ④ SSR
+
+
